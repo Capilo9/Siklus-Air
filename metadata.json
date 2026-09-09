@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Setetes Air - MPI Siklus Air",
+  "description": "Media Pembelajaran Interaktif (MPI) Siklus Air untuk peserta didik Kelas V SD - SDN Sadeng 02 oleh Pak Madi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
